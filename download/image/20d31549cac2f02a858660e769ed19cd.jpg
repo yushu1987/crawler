@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>key not found</Message>
+  <Resource>/sandbox/20130722_125611_default_19890_pic_0722-37.jpg</Resource>
+  <RequestId>00804563-1901-2222-2517-f80f41f29621</RequestId>
+</Error>

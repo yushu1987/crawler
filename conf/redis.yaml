@@ -1,0 +1,7 @@
+redis:
+  host: 127.0.0.1:6379
+  auth:
+  db: 1
+  conn_max_active: 200
+  conn_max_idle: 100
+  conn_idle_timeout: 180

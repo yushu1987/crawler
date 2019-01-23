@@ -1,0 +1,8 @@
+log:
+  format: text
+  level: debug
+  logpath: ./
+  logfile: ./crawler.log
+  errlogfile: ./error.log
+  loglifetime: 48 #小时 保存小时
+  logrotation: 24 #天 按小时分隔

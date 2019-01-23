@@ -1,0 +1,3 @@
+base:
+  download: ./download
+  level: 10

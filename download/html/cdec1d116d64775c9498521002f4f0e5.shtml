@@ -1,0 +1,1300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- [ published at 2019-01-22 22:20:25 ] -->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base target="_blank">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="pubishid" content="6,709,1">
+<title>游泳_综合体育_新浪体育竞技风暴_新浪网</title>
+<meta name="keywords" content="游泳,宁泽涛,叶诗文,孙杨,张琳,吴鹏,刘子歌,焦刘洋,菲尔普斯,佩莱格里尼,北岛康介,朴泰恒,,,,,,,,,,,,,,,,,,,">
+<meta name="description" content="关注国际泳坛动态、明星动态">
+<style type="text/css">
+/* ===================== css reset ===================== */
+body { margin:5px 0; color:#0b0b0c; font-size:12px; }
+ul, li, dl, dd, dt, p, h1, h2, form { margin: 0; padding: 0; }
+img { border:none; }
+li { list-style-type:none; }
+select, input, img, button, label span { vertical-align:middle; }
+select, input, textarea { font-size:12px; }
+a:link{ color:#0335ae; text-decoration:none;}
+a:visited{ color:#800080; text-decoration:none;}
+a:hover{ color:#800080; text-decoration:underline;}
+a:action{ color:#800080; text-decoration:underline;}
+
+.red a:hover, .red a:visited, .red a:link { color:red; text-decoration:underline;}
+div, ul, dl, p { zoom:1; }
+div:after, ul:after, dl:after, p:after { content:"\0020"; display:block; clear:both; height:0; }
+/* ===================== block define ===================== */
+#wrap { margin: 0 auto; width:950px; }
+/* nav 1 */
+.nav1 { background:url(http://www.sinaimg.cn/ty/09others/xm/nav_bar_1.png) 0 0 no-repeat; padding:0 8px; margin-top:10px; height:26px; }
+.nav1 li { float:left; padding:0 8px; margin:7px 0 8px; }
+.nav1 li.focus { background:url(http://www.sinaimg.cn/ty/09others/xm/nav_cur.png) center 0 no-repeat; width:70px; line-height:27px; margin:0; text-align:center; padding:0 12px; }
+.nav1 li.sub { padding-right:22px; border-right:1px solid #000197; margin-right:14px; }
+.nav1 li a { text-decoration:none; }
+.nav1 li.focus a { color:#fff; font-size:14px; font-weight:bold; }
+.nav1 li a:hover { color:#f00; text-decoration:underline; }
+/* nav 2 */
+.nav2 { background:url(http://www.sinaimg.cn/ty/09others/xm/sub_nav.png) 0 0 no-repeat; padding:9px 9px 10px; }
+.nav2 li { float:left; text-align:center; padding:0 9px; height:12px; overflow:hidden; }
+.nav2 .last { border-right:none; }
+.nav2 li a { color:#fff; text-decoration:none; }
+.nav2 li a:hover { color:#f00; text-decoration:underline;}
+.news_ser { text-align:right; padding-right:27px; margin-top:-34px }
+.news_ser .inp_txt { background:url(http://www.sinaimg.cn/ty/09others/xm/nav_ser_1.png) no-repeat; width:120px; height:20px; line-height:20px; padding:3px 5px 0 25px; border:none }
+.news_ser button { background:url(http://www.sinaimg.cn/ty/09others/xm/nav_ser_3.png); height:20px; line-height:20px; color:#fff; text-align:center; width:45px; padding:0; border:none }
+/**/
+.m_con { border-bottom:1px solid #b9d5ed; padding:10px 0; }
+.m_con2 { border-top:1px solid #b9d5ed; }
+/* main 1 */
+.main1 { margin-top:10px; background:url(http://www.sinaimg.cn/ty/09others/xm/bg.png) 0 0 repeat-y; }
+.main1BottomBg { background:url(http://www.sinaimg.cn/ty/09others/xm/bg.png) 100% 0 no-repeat; height:1px; font-size:1px; clear:both; }
+/*2010-8-2*/
+.main1BottomBg1 { background:url(http://www.sinaimg.cn/ty/swimsite20100705/bg1.png) 100% 0 no-repeat; height:1px; font-size:1px; clear:both; }
+
+.main1L { width:320px; float:left; }
+#fucPic { height:267px; }
+.main1L .list1 { padding:15px 0 5px 15px; }
+.main1M { width:360px; float:left; margin-left:10px; }
+.main1M .list2 { padding:12px 5px; background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) bottom repeat-x; }
+.main1M .last { background:none; padding-bottom:0; }
+.main1R { width:250px; float:right; }
+.main1R p.pics a { padding:5px 0; }
+/* main 2 */
+.main2 { margin-top:10px; background:url(http://i2.sinaimg.cn/ty/gn2009/gz_jn_mainBg.gif) -1900px 0 repeat-y; }
+.main2BottomBg { background:url(http://i2.sinaimg.cn/ty/gn2009/gz_jn_mainBg.gif) -2850px 0 no-repeat; height:1px; font-size:0; clear:both; overflow:hidden; }
+.main2L { width:220px; float:left; }
+.m2L_block { float:left; border-bottom:10px solid #fff; background:url(http://i2.sinaimg.cn/ty/gn2009/gz_jn_mainBg.gif) -2850px bottom no-repeat; }
+.main2L ul.list1 { padding:0 15px; }
+.main2L ul.list1 li { line-height:18px; }
+.main2M { width:460px; float:left; margin-left:10px; }
+.main2M .list2 { padding:8px 0; }
+.main2M .last { padding-bottom:0; }
+.main2R { width:250px; float:right; }
+.main2R .list1 { padding:0 10px; }
+.main2R ul.list1 li { line-height:21px; }
+/* ===================== commen define ===================== */
+/* title */
+.title1 { background: url(http://www.sinaimg.cn/ty/09others/xm/tit.png) no-repeat 0 0; height:26px; overflow:hidden; border-top:10px solid #fff; line-height:26px; }
+.title1 h2 { padding:0 0 0 11px; border-right:1px solid #b9d5ed; font-size:14px; color:#073197 }
+.more { padding-right:8px }
+.more a { text-decoration:none }
+.title1 h2 img { padding:7px 0 4px; }
+.title1 h2.h2Tit1 { background:url(http://i1.sinaimg.cn/ty/subject/2009/0327/gz_jn_title2Bg.png) 0 0 no-repeat; padding:5px 0 0 40px; }
+.title12 { background:url(http://i3.sinaimg.cn/ty/gn2009/gz_jn_title1Bg.png) no-repeat; height:26px; overflow:hidden; border-top:10px solid #fff; }
+.title12 h2 { padding:7px 0 0 25px; font-size:14px; color:#204d8b; float:left; }
+.title12 h2 img { padding:7px 0 4px; }
+.title12 .moreLink { border-right:1px solid #b9d5ed; padding:7px 10px 0 0; height:19px; }
+.title12 .moreLink span, .title12 .moreLink span a { font-size:14px; color:#204d8b; font-weight:bold; }
+.title12 .moreLink span a:hover { color:#f00; }
+.title12 .more { border-right:1px solid #b9d5ed; height:25px; padding-top:1px; }
+.title12 .more a { float:left; line-height:25px; width:50px; text-align:center; border-left:1px solid #c1dbf2; }
+.title12 .more a.selected { background:url(http://i2.sinaimg.cn/ty/gn2009/gz_jn_linkBg.png) repeat-x; }
+.title2 h2 { background:url(http://www.sinaimg.cn/ty/09others/xm/tit_icon.png) no-repeat 11px 0; padding-left:22px }
+.title3 { line-height:24px; color:#7c7c7c; background: url(http://www.sinaimg.cn/ty/09others/xm/c_tit.png) repeat-x; height:24px; border:solid 1px #D5E5FB; margin-top:10px}
+.title3 h2 { color:#073197; font-size:14px; padding-left:10px; float:left; }
+.title3 .more {width:70px; }
+.title3 .moreLink { margin-right:15px; }
+.title3 a { text-decoration:none; color:#073197 }
+.title3 a:hover { text-decoration:underline; }
+.moreLink { float:right; }
+.more { float:right; text-align: right }
+/* list */
+ul.list1 li { background:url(http://i1.sinaimg.cn/ty/gn2009/gz_jn_liDotBg.gif) 0 50% no-repeat; padding-left:8px; line-height:21px; }
+ul.list2 li { font-size:10px; background:url(http://i1.sinaimg.cn/ty/gn2009/gz_jn_liDotBg.gif) 0px 8px no-repeat; padding-left:12px; line-height:23px; height:23px; color:#666; }
+ul.list2 li a { font-size:14px;display: block;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; }
+ul.list3 { padding:0 10px; }
+ul.list3 li { background:url(http://i1.sinaimg.cn/ty/gn2009/gz_jn_liDotBg.gif) 0 8px no-repeat; padding-left:8px; line-height:21px; float:left; width:46%; }
+ul.list4 { padding:0 10px; }
+ul.list4 li { padding-left:8px; line-height:25px; float:left; width:46%; }
+/* tu wen */
+ul.tw1 { padding:0 10px; }
+ul.tw1 li { width:50%; float:left; background:url(http://i1.sinaimg.cn/ty/gn2009/gz_jn_spBg2.png) center 0 no-repeat; line-height:23px; text-align:center; }
+ul.tw1 li img { display:block; padding:4px 4px 20px; margin:0 auto; }
+.tw2 { margin-bottom:10px; }
+.tw2 p.pic { float:left; background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_spBg1.png) no-repeat; margin-left:7px; display:inline; width:113px; line-height:21px; }
+.tw2 p.pic img { display:block; margin:0 auto; margin:8px 9px 24px; }
+.tw2 p.info { float:left; width:88px; line-height:21px; }
+.tw2 p.info span a { color:#f00; text-decoration:none; font-weight:normal; }
+.tw2 p.info span a:hover { color:#f00; text-decoration:underline; }
+.tw2 ul { float:left; width:125px; margin-left:5px; }
+ul.tw3 { padding:0 5px; }
+ul.tw3 li { width:50%; float:left; line-height:25px; text-align:center; padding-bottom:10px; }
+ul.tw3 li img { display:block; margin:0 auto; border:1px solid #969797; }
+ul.tw3 li.last { padding-bottom:0; }
+ul.tw4 { padding:0 20px; }
+ul.tw4 li { width:33%; float:left; line-height:21px; text-align:center; padding-bottom:5px; }
+ul.tw4 li.last { padding-bottom:0; }
+ul.tw4 li.focus { width:100%; }
+ul.tw4 li img { display:block; margin:0 auto; border:1px solid #969797; }
+.tw5 { padding:5px 0 10px; }
+.tw5last { padding-bottom:0; }
+.tw5 p.pic { float:left; margin-left:7px; display:inline; width:105px; }
+.tw5 ul.list1 { float:left; width:125px; margin-left:5px; padding:0; }
+ul.tw6 { padding:0 5px; }
+ul.tw6 li { width:50%; float:left; line-height:21px; text-align:center; padding-bottom:5px; }
+ul.tw6 li img { display:block; background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_spBg1.png) no-repeat; padding:8px 9px 24px; margin:0 auto; }
+.misc_inf img { float:left }
+.misc_inf .txt { margin-left:108px }
+.misc_inf .txt h3 { font-weight:normal; font-size:12px; margin:0 0 1em }
+.misc_inf .txt p { text-indent:2em; color:#5E5E5E; line-height:1.8 }
+.misc_list li{ float:left; width:33.3%; text-align:center; padding-bottom:8px}
+.misc_list li span{ display:block; text-align:center; padding-top:5px; text-decoration:none;}
+.video{ padding:0 6px}
+.m_con .video img{ background:url(http://www.sinaimg.cn/ty/09others/xm/video.png) no-repeat 0 0; border:none; padding:5px 6px 17px 5px}
+.ed .misc_inf{ padding-bottom:10px; margin-bottom:10px; background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) bottom repeat-x;}
+.ed .misc_inf .txt h3{ font-size:14px; margin-bottom:8px}
+.ed  .misc_inf .txt p{ line-height:2;}
+.ed .last{ background:none; margin-bottom:-5px}
+/* table */
+.table1 { background:#d9eef8; border-collapse:collapse; width:90%; margin:0 auto; }
+.table1 td, .table1 th { border:1px solid #97c8e8; color:#1e6697; line-height:21px; text-align:center; font-weight:normal; }
+.table2 { background:#d9eef8; border-collapse:collapse; width:90%; margin:0 auto; }
+.table2 td, .table2 th { border:1px solid #97c8e8; color:#1e6697; line-height:25px; text-align:center; font-weight:normal; }
+/* picture */
+p.pics { padding:0 10px; }
+p.pics a { float:left; width:50%; text-align:center; padding:10px 0; }
+p.pics img { border:1px solid #bad7eb; }
+p.pic { text-align:center; line-height:25px; }
+p.pic img { display:block; margin:0 auto; border:1px solid #969797; }
+.m_con img { background-color:#F0F6FE; border: solid 1px #D1E3FC; padding:3px }
+/* other */
+.photo { background:url(http://i2.sinaimg.cn/ty/gn2009/gz_jn_photo.gif) 0 4px no-repeat; float:left; width:22px; height:21px; }
+#con1 { line-height:21px; padding-left:15px; }
+#con2 { line-height:21px; padding-left:15px; }
+#con1 a, #con2 a { margin-right:10px; }
+.last { margin:0; border:none; background:none; }
+.first { border:none; }
+.blank { margin-top:15px; }
+/* fooer */
+#uni_footer { line-height:23px; text-align:center; padding:40px 0 70px; border-top:solid 1px #C1D7F4; clear:both; margin-top:10px}
+
+/* 焦点图 */
+.FocusImg{border:1px solid #b7d4ff;background:#e2f1fd;width:248px;height:218px;overflow:hidden;position:relative;zoom:1;}
+.FocusImg .TopBox{height:186px;overflow:hidden;}
+.FocusImg .BottomBox{zoom:1;overflow:hidden;}
+.FocusImg .BigPic{width:242px;height:182px;border:1px solid #000;overflow:hidden;margin:2px auto 0;position:relative;}
+.FocusImg .BigPic img{position:absolute;left:0;top:0;width:242px;height:182px;}
+.FocusImg .TitleBg{height:20px;width:244px;margin:-21px auto 0;background:#000;filter:Alpha(Opacity=58);opacity:0.58;background:#000;z-index:100;position:relative;}
+.FocusImg .TitleBox{width:244px;height:18px;margin:-20px auto 0;font-size:12px;font-weight:bold;color:#fff;text-align:center;line-height:20px;z-index:200;position:relative;overflow:hidden;}
+.FocusImg a:link,.FocusImg a:visited{color:#fff;text-decoration:none;}
+.FocusImg a:hover{color:#f00;text-decoration:underline;}
+.FocusImg .PicList{padding-top:8px;overflow:hidden;zoom:1;float:right;}
+.FocusImg .PicList span{float:left;width:16px;height:15px;padding-left:1px;display:inline;background:url(http://www.sinaimg.cn/edu/images/ej_mj_001.gif) no-repeat -100px 0;margin-left:8px;text-align:center;color:#06f;line-height:16px;overflow:hidden;cursor:pointer;}
+.FocusImg .PicList span.selected{padding-top:3px;margin-top:-3px;background-position:-150px 0;color:#f60;}
+.FocusImg #PlayBut_01{float:right;cursor:pointer;width:31px;height:20px;background:url(http://www.sinaimg.cn/edu/images/ej_mj_001.gif) no-repeat 0 -50px;display:inline;margin:6px 5px 0 0;}
+.FocusImg .stop{background-position:-50px -50px!important;}
+.FocusImg .ArrRight{width:14px;height:15px;float:right;margin:8px 15px 0 8px;background:url(http://www.sinaimg.cn/edu/images/ej_mj_001.gif) no-repeat -50px 0;cursor:pointer;}
+.FocusImg .ArrLeft{width:14px;height:15px;float:right;margin:8px 0 0 0;background:url(http://www.sinaimg.cn/edu/images/ej_mj_001.gif) no-repeat 0 0;cursor:pointer;}
+
+/* 310*232 320*275 */
+.Size_B{width:318px;height:270px;}
+.Size_B .TopBox{height:237px;}
+.Size_B .BigPic{width:310px;height:232px;margin-top:3px;}
+.Size_B .BigPic img{width:310px;height:232px;}
+.Size_B .TitleBg{width:312px;}
+.Size_B .TitleBox{width:312px;}
+
+/*导航 2010/6/7修改*/
+.nav{margin-bottom: 10px;border: 1px solid #9fd0f8;}
+.red{color: #f00 !important;}
+.top_nav{height: 30px;line-height: 30px;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) 0 0 repeat-x;text-align: center;}
+.top_nav a{display: inline-block;vertical-align: middle;color: #03207b;padding: 0 5px;text-decoration: none;}
+.top_nav .separator{display: inline-block;vertical-align: middle;margin-top: -2px;width: 2px;height: 30px;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) 0 -80px no-repeat;}
+.top_nav .current{position: relative;height: 32px;_height: 30px;_top:2px;color: #fff!important;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) 0 -240px repeat-x;}
+.main_nav{border: 1px solid #054593;text-align: center;}
+.main_nav_bdr{height: 28px;font-size: 14px;border: 1px solid #3768a7;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) 0 -122px repeat-x;}
+.main_nav a{display: inline-block;vertical-align: middle;text-decoration: none;height: 20px;line-height: 20px;margin-top: 4px;color: #fff !important;}
+.main_nav a span{padding: 0 6px;cursor: pointer;}
+.main_nav a:hover,.main_nav .current{color: #fff;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) 0 -460px no-repeat;}
+.main_nav a:hover span,.main_nav .current span{display: inline-block;vertical-align: middle;background: url(http://www.sinaimg.cn/ty/lmdaohang20100612/sports_yc_nav.png) right -480px no-repeat;}
+/*导航 2010/6/7修改end*/
+</style>
+<script type="text/javascript" src="http://i3.sinaimg.cn/home/sinaflash.js"></script>
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+var FocusPic = {
+	BigPicID : "BigPic_01",
+	PicListID : "PicList_01",
+	TitleID : "TitleBox_01",
+	PlayButtonID : "PlayBut_01",
+	ArrLeftID : "ArrLeft_01",
+	ArrRightID : "ArrRight_01",
+	Data : [],
+	ImgLoad : [],
+	TimeOut : 5000,
+	adNum : 0,
+	TimeOutObj : null,
+	showTime : null,
+	showSum : 10,
+	autoPlay : true,
+	Add : function(BigPic,Title,Url){
+		var ls;
+		this.Data.push([BigPic,Title,Url]);
+		//预载图片
+		ls = this.ImgLoad.length;
+		this.ImgLoad.push(new Image());
+		this.ImgLoad[ls].src = BigPic;
+	},
+	TimeOutBegin : function(){
+		clearInterval(this.TimeOutObj);
+		if(this.autoPlay){
+			this.TimeOutObj = setInterval("FocusPic.next()",this.TimeOut);
+		};
+	},
+	TimeOutEnd : function(){
+		clearInterval(this.TimeOutObj);
+	},
+	$ : function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}},
+	select : function(num){
+		if(num>this.Data.length - 1){return};
+		if(num == this.adNum){return};
+		this.TimeOutBegin();
+
+		if(this.BigPicID){if(this.$(this.BigPicID)){
+			//var aObj = this.$(this.BigPicID).getElementsByTagName("a")[0];
+			//aObj.href = this.Data[num][2];
+
+			if(this.aImgY){
+				this.aImgY.style.display = 'none';
+				this.aImg.style.position = "relative";
+				this.aImg.style.left = 0;
+				this.aImg.style.top = 0;
+				this.aImg.style.zIndex = 0;
+			};
+
+			this.aImgY = this.$('BF' + this.adNum);
+			this.aImg = this.$('BF' + num);
+
+			clearTimeout(this.showTime);
+
+			this.showSum = 10;
+			this.showTime = setTimeout("FocusPic.show()",50);
+
+		}};
+		if(this.TitleID){if(this.$(this.TitleID)){
+			if(this.Data[num][2]){
+				this.$(this.TitleID).innerHTML = "<a href=\"" + this.Data[num][2] + "\" target=\"_blank\">" + this.Data[num][1] + "</a>";
+			}else{
+				this.$(this.TitleID).innerHTML = this.Data[num][1];
+			};
+
+		}};
+		if(this.PicListID){if(this.$(this.PicListID)){
+			var sImg = this.$(this.PicListID).getElementsByTagName("span"),i;
+			for(i=0;i<sImg.length;i++){
+				if(i==num || num == (i - this.Data.length)){sImg[i].className = "selected"}else{sImg[i].className = ""};
+			}
+		}};
+		this.adNum = num;
+		if(this.onselect){
+			this.onselect();
+		};
+	},
+	absPosition : function(obj,parentObj){
+		var left = obj.offsetLeft;
+		var top = obj.offsetTop;
+		var tempObj = obj;
+		while(tempObj.id!=document.body & tempObj.id!=document.documentElement & tempObj != parentObj){
+			tempObj = tempObj.offsetParent;
+			left += tempObj.offsetLeft;
+			top += tempObj.offsetTop;
+		};
+		return {left:left,top:top};
+	},
+	show : function(){
+		this.showSum --;
+		this.aImgY.style.display = 'block';
+		this.aImgY.style.zIndex = 0;
+		this.aImg.style.position = "absolute";
+		this.aImg.style.display = 'block';
+		var isIE = navigator.appVersion.indexOf("MSIE")!=-1?true:false;
+		if(isIE){
+			this.aImg.style.filter = "alpha(opacity=0)";
+			this.aImg.style.filter = "alpha(opacity=" + (10 - this.showSum) * 10 + ")";
+
+		}else{
+			this.aImg.style.opacity = 0;
+			this.aImg.style.opacity = (10 - this.showSum) * 0.1;
+		};
+		if(this.showSum <= 0){
+			this.aImgY.style.display = 'none';
+			this.aImg.style.zIndex = 0;
+			this.aImgY = null;
+		}else{
+			this.aImg.style.zIndex = 1;
+			this.showTime = setTimeout("FocusPic.show()",50);
+		};
+	},
+	next : function(){
+		var temp = this.adNum;
+		temp++;
+		if(temp>=this.Data.length){temp=0};
+		this.select(temp);
+	},
+	per : function(){
+		var temp = this.adNum;
+		temp--;
+		if(temp<0){temp=this.Data.length-1};
+		this.select(temp);
+	},
+	MInStopEvent : function(ObjID){
+		if(ObjID){if(this.$(ObjID)){
+			if(this.$(ObjID).attachEvent){ //绑定
+				this.$(ObjID).attachEvent("onmouseover",Function("FocusPic.TimeOutEnd()"));
+				this.$(ObjID).attachEvent("onmouseout",Function("FocusPic.TimeOutBegin()"));
+			}else{
+				this.$(ObjID).addEventListener("mouseover",Function("FocusPic.TimeOutEnd()"),false);
+				this.$(ObjID).addEventListener("mouseout",Function("FocusPic.TimeOutBegin()"),false);
+			};
+		}}
+	},
+	begin : function(){
+		this.MInStopEvent(this.TitleID);
+		this.MInStopEvent(this.PicListID);
+		this.MInStopEvent(this.BigPicID);
+		this.adNum = 0;
+		var i,temp = "";
+		if(this.BigPicID){if(this.$(this.BigPicID)){ //大图
+			var divObj = this.$(this.BigPicID);
+			divObj.style.zoom = 1;
+			divObj.style.position = "relative";
+			for(i=0;i<this.Data.length;i++){
+				if(this.Data[i][2]){
+					temp += '<a href="' + this.Data[i][2] + '" target="_blank"><img src="' + this.Data[i][0] + '" id="BF' + i + '" style="display:' + (i==this.adNum?'block':'none') + '" galleryimg="no" alt="' + this.Data[i][1] + '" /></a>';
+				}else{
+					temp += '<img src="' + this.Data[i][0] + '" id="BF' + i + '" style="display:' + (i==this.adNum?'block':'none') + '" galleryimg="no" alt="' + this.Data[i][1] + '" />';
+				};
+			};
+			divObj.innerHTML = temp;
+		}};
+		if(this.PicListID){if(this.$(this.PicListID)){
+			temp = "";
+			for(i=0;i<this.Data.length;i++){
+				temp += "<span" + (this.adNum == i ?' class="selected"':"") + " onmouseover=\"FocusPic.select(" + i + ")\">" + (i+1) + "</span>";
+			};
+			this.$(this.PicListID).innerHTML = temp;
+		}};
+		if(this.TitleID){if(this.$(this.TitleID)){
+			this.$(this.TitleID).innerHTML = "<a href=\"" + this.Data[this.adNum][2] + "\" target=\"_blank\">" + this.Data[this.adNum][1] + "</a>";
+		}};
+		//按钮
+		if(this.$(this.ArrRightID)){
+			this.$(this.ArrRightID).onclick = function(){FocusPic.next();};
+		};
+		if(this.$(this.ArrLeftID)){
+			this.$(this.ArrLeftID).onclick = function(){FocusPic.per();};
+		};
+		if(this.$(this.PlayButtonID)){
+			this.$(this.PlayButtonID).onclick = function(){FocusPic.autoPlayChange();};
+
+		};
+		this.TimeOutBegin();
+	},
+	autoPlayChange : function(){
+		if(this.autoPlay){
+			this.autoPlay = false;
+			if(this.$(this.PlayButtonID)){this.$(this.PlayButtonID).className = "stop"};
+			this.TimeOutEnd();
+		}else{
+			this.autoPlay = true;
+			if(this.$(this.PlayButtonID)){this.$(this.PlayButtonID).className = ""};
+			this.TimeOutBegin();
+		};
+	}
+};
+//--><!]]>
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+<body><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+<script>
+    (function (d, s, id) {
+        var s, n = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        s = d.createElement(s);
+        s.id = id;
+        s.setAttribute('charset', 'utf-8');
+        s.src = '//d' + Math.floor(0 + Math.random() * (9 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';
+        n.parentNode.insertBefore(s, n);
+    })(document, 'script', 'sinaads-script');
+</script>
+
+	
+<div id="wrap">
+	
+	
+<!-- 标准二级导航_体育 begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+</style>
+<div class="secondaryHeader" style="width:950px;margin:0 auto;">
+	<div class="sHBorder">
+		<div class="sHLogo"><span><a href="http://sports.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif" border="0" alt="新浪网" /></a><a href="http://sports.sina.com.cn/"><img src="http://i1.sinaimg.cn/ty/deco/2010/0601/standardl2nav_sports.gif" border="0" alt="新浪体育" /></a></span></div>
+		<div class="sHLinks"><a href="http://sports.sina.com.cn/">体育首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">新浪导航</a></div>
+	</div>
+</div>
+<!-- 标准二级导航_体育 end -->
+		<!-- {09综合项目页导航} -->
+	<div class="nav">
+		<div class="top_nav" data-sudaclick="blk_top_nav">
+		<a href="http://sports.sina.com.cn/index1.shtml">首页</a>
+
+		<a href="http://sports.sina.com.cn/china/" target="_blank">中国足球</a>
+		<a href="http://sports.sina.com.cn/global/" target="_blank">国际足球</a>
+		<a href="http://sports.sina.com.cn/basketball/" target="_blank">篮球</a>
+		<a href="http://sports.sina.com.cn/nba/" class="red" target="_blank">NBA</a>
+		<a href="http://sports.sina.com.cn/others/" class="current" target="_blank">综合</a>
+		<a href="http://lottery.sina.com.cn/" target="_blank">彩票</a>
+		<span class="separator"></span>
+		<a href="http://f1.sina.com.cn/" target="_blank">F1</a>
+		<a href="http://sports.sina.com.cn/chess/" target="_blank">棋牌</a>
+		<a href="http://sports.sina.com.cn/tennis/" target="_blank">网球</a>
+		<a href="http://golf.sina.com.cn/" target="_blank">高尔夫</a>
+		<span class="separator"></span>
+		<a href="http://sports.sina.com.cn/hotnews/sports/Daily/" target="_blank">排行</a>
+		<a href="http://roll.sports.sina.com.cn/s/channel.php?ch=02" target="_blank">滚动</a>
+		<a href="http://sports.sina.com.cn/zt/" target="_blank">专题</a>
+		<a href="http://sports.sina.com.cn/video/" target="_blank">视频</a>
+		<span class="separator"></span>
+		<a href="http://blog.sina.com.cn/lm/sports/" target="_blank">博客</a>
+		<a href="http://sports.sina.com.cn/bbs/" target="_blank">论坛</a>
+		<a href="http://sports.sina.com.cn/gossip/" target="_blank">花边</a>
+		<a href="http://match.sports.sina.com.cn/livecast/" class="red" target="_blank">直播</a>
+
+	</div>
+
+	<div class="main_nav" data-sudaclick="blk_main_nav">
+		<div class="main_nav_bdr">
+			<a href="http://slide.sports.sina.com.cn/o/" target="_blank"><span>图片</span></a>
+			<a href="http://sports.sina.com.cn/star/" target="_blank"><span>明星</span></a>
+                        <a href="http://2016.sina.com.cn/" target="_blank"><span>奥运</span></a>
+                        <a href="http://sports.sina.com.cn/others/volley.shtml" target="_blank"><span>排球</span></a>
+			<a href="http://sports.sina.com.cn/others/swim.shtml" target="_blank"><span>游泳</span></a>			
+			<a href="http://sports.sina.com.cn/others/pingpang.shtml" target="_blank"><span>乒乓球</span></a>
+			<a href="http://sports.sina.com.cn/others/badmin.shtml" target="_blank"><span>羽毛球</span></a>
+                        <a href="http://sports.sina.com.cn/others/snooker.shtml" target="_blank"><span>台球</span></a>
+			<a href="http://sports.sina.com.cn/others/tianjing.shtml" target="_blank"><span>田径</span></a>
+			<a href="http://sports.sina.com.cn/others/ticao.shtml" target="_blank"><span>体操</span></a>
+                        <a href="http://sports.sina.com.cn/others/winter/" target="_blank"><span>冰雪</span></a>
+                        <a href="http://sports.sina.com.cn/others/sh.shtml" target="_blank"><span>射击</span></a>
+                        <a href="http://sports.sina.com.cn/others/mashu.shtml" target="_blank"><span>马术</span></a>
+                        <a href="http://sports.sina.com.cn/others/kungfu.shtml" target="_blank"><span>拳击搏击</span></a>
+			 <a href="http://sports.sina.com.cn/ufc/" target="_blank"><span>UFC</span></a>	
+                         <a href="http://sports.sina.com.cn/others/others.shtml" target="_blank"><span>其他</span></a>
+			<a href="http://www.volleychina.org/" target="_blank"><span>排协</span></a>
+		</div>
+	</div>
+<!-- Nav begin -->
+<!-- 统一站内搜索 begin -->
+<style type="text/css">
+.search_bar {margin: -1px 0 0;height: 33px;padding: 0 10px;background: url(http://i3.sinaimg.cn/ty/uc20100910/search_sport2.png) 0 -80px no-repeat;}
+.search_bar h2 {float: left; color:#1351A5; font-family:"黑体", "新宋体", "宋体"; font-size: 18px;font-weight: normal; margin: 7px 0px 0px 0px;}
+.unify_search {float: right;font-family: '宋体';margin-top: 6px;}
+.unify_search .kw{float: left;width: 130px;height: 18px;margin-right: 6px;line-height: 18px;padding: 2px 2px 2px 20px;border: 0;background: url(http://i0.sinaimg.cn/ty/uc20100910/search_sprite.png) 0 0 no-repeat;}
+.unify_search select{float: left;width: 53px;height: 22px;margin-right: 6px;*margin-top: 1px;border: 1px solid #ccc;padding: 1px;color: #666;}
+.unify_search .gray{color: #ccc;}
+.unify_search .sb{float: left;width: 58px;height: 22px;padding-bottom: 2px;overflow: hidden;*line-height: 23px;_line-height: 25px;cursor: pointer;border:0;background: url(http://i0.sinaimg.cn/ty/uc20100910/search_sprite.png) -240px 0 no-repeat;color: #444;}
+</style>
+<div class="search_bar" style="border-top-width: 0px;">
+    <h2>游泳</h2>
+    <form id="unify_search" class="unify_search" target="_blank"  method="post" action="http://search.sina.com.cn/">
+        <input type="text" name="q" class="kw gray" value="请输入关键词" onfocus="this.className='kw';if (this.value=='请输入关键词') {this.value=''}" onblur="if(this.value==''){this.className+=' gray';this.value='请输入关键词'}" />
+        <select name="opt">
+
+            <option value="news" selected>新闻</option>
+            <option value="img">图片</option>
+            <option value="blog">博客</option>
+            <option value="video">视频</option>
+            <!-- 不需要的项直接删掉就行了 JS不用动 -->
+        </select>
+        <input type="submit" class="sb" value="搜 索" />
+
+    </form>
+</div>
+
+<script type="text/javascript">
+<!--
+//统一站内搜索
+document.getElementById('unify_search').onsubmit=function () {
+    var kw=this.q.value;
+    if (!kw || kw=='请输入关键词') {
+        alert('请输入搜索关键词!');
+        this.q.focus();
+        return false;
+    }
+    switch (this.opt.value) {
+        case 'news':
+            this.action='http://search.sina.com.cn/?from=chanel2&c=news&sort=time&filter=1&q='+kw;
+            break;
+        case 'blog':
+            this.action='http://search.sina.com.cn/?c=blog&from=sportschina&q='+kw;
+            break;
+        case 'img':
+            this.action='http://search.sina.com.cn/?from=chanel2&c=img&sort=time&filter=1&q='+kw;
+            break;
+        case 'video':
+            this.action='http://video.sina.com.cn/search/index.php?k='+kw;
+            break;
+        case 'music':
+            this.action='http://music.sina.com.cn/yueku/search/s.php?t=all&key='+kw;
+            break;
+        default:
+            this.action='http://search.sina.com.cn/?c='+this.opt.value+'&q='+kw;
+            break;
+    }
+}
+//-->
+</script>
+<!-- 统一站内搜索 end -->
+	
+<!-- Nav end -->
+ 	</div>
+	<!-- 主内容 begin -->
+	<div class="main1" >
+		<div class="main1L" data-sudaclick="blk_focus_left">
+			<div id="fucPic" style="position:relative;z-index:2000000;height:270px; overflow:hidden;" >
+				<style> 
+            /* 焦点图 */
+			#flashcontent1{position:relative;}
+			.bigPic{border:solid #dee0cb;border-width:1px 0 1px 0;}
+			.bigPic img{border:1px solid #fff;margin:4px;}
+			.Bg{position:relative;background:#5e5f76;filter:alpha(opacity=50);opacity:0.5;height:25px;margin:-30px 5px 0;}
+			.info{position:relative;line-height:25px;text-align:center;margin:-25px 5px 0;font-weight:bold;}
+			.info,.info a:link{color:#fff;text-decoration:none;}
+			.info,.info a:visited{color:#fff;text-decoration:none;}
+			.info,.info a:hover{color:#800080;text-decoration:none;}
+			.info,.info a:action{color:#800080;text-decoration:none;}
+            </style> 
+				<div id="flashcontent1"> 
+					<div class="bigPic"><a href="http://sports.sina.com.cn/others/diving/2018-04-24/doc-ifzqvvsa7272925.shtml" target="_blank"><img src="http://n.sinaimg.cn/sports/transform/566/w310h256/20180425/KlJD-fzqvvsa8874700.jpg" width="310" height="256" /></a></div> 
+<div class="Bg"></div> 
+<div class="info"><a href="http://sports.sina.com.cn/others/diving/2018-04-24/doc-ifzqvvsa7272925.shtml" target="_blank">奥运冠军陈艾森林跃拍电影</a></div> 
+                </div> 
+				<script type="text/javascript"> 
+			// <![CDATA[
+			/*var sinaFlash1 = new sinaFlash("http://i1.sinaimg.cn/ty/deco/2008/0303/focussports1.swf", "demo", "320", "267", "8", "#fff");
+				sinaFlash1.addParam("quality", "best");
+				sinaFlash1.addParam("wmode", "transparent");
+				//此处添图片信息等内容，用“|”分割，用“#”分割的部分分别代表图片地址，左侧按钮标题文字，左侧按钮消息文字，大图片的大标题文字，大图片的消息文字，大图片的连接地址！focusmovie.swf
+				sinaFlash1.addVariable("mypic", "${焦点图}#${焦点图标题}#${焦点图链接}");
+				sinaFlash1.write("flashcontent1");*/
+			// ]]>
+			</script>
+			</div>
+			<div class="title1 title2">
+				<p class="more"><a href="http://video.sina.com.cn/sports/">更多&gt;&gt;</a></p>
+				<h2>视频</h2>
+			</div>
+			<div class="m_con last">
+				<ul class="misc_list video">				
+	<li>
+					<a href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0079983.shtml" target="_blank"><img src="http://k.sinaimg.cn/n/sports/transform/283/w650h433/20190122/p7gn-hryfqhk8724485.jpg/w80h60z1l108a5.jpg" width="80" alt="张琳感谢祖国培养 庆幸成中国首个男泳世界冠军"/>
+					<span>庆幸成中国首个男</span></a>
+					</li><li>
+					<a href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0078150.shtml" target="_blank"><img src="http://k.sinaimg.cn/n/sports/transform/283/w650h433/20190122/v7PB-hryfqhk8632015.jpg/w80h60z1l10385.jpg" width="80" alt="张琳获选“中国体育20年影响力人物”"/>
+					<span>张琳获选“中国体</span></a>
+					</li><li>
+					<a href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihqfskcn9344106.shtml" target="_blank"><img src="http://k.sinaimg.cn/n/sports/transform/244/w650h394/20190122/AubG-hryfqhk6134982.jpg/w80h60z1l1070c.jpg" width="80" alt="有颜值更有实力丨刘湘获得2018年度女性传媒大奖"/>
+					<span>有颜值更有实力丨</span></a>
+					</li></ul>
+
+			</div>
+		</div>
+		<div class="main1M" data-sudaclick="blk_focus_middle">
+			
+<ul class="list2"><li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0079983.shtml">张琳感谢祖国培养 庆幸成中国首个男泳世界冠军</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihqfskcn9344106.shtml">有颜值更有实力丨刘湘获得2018年度女性传媒大奖</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9192074.shtml">国际泳联新型游泳赛事来袭 首场位于中国广州！</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9034419.shtml">池江璃花子出发澳大利亚外训 与世锦赛亚军同游</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/synchronise/2019-01-18/doc-ihrfqziz8919537.shtml">黄雪辰重回国家队 中国花游队已有三位超级辣妈</a></li>
+				</ul><ul class="list2"><li><a target="_blank" href="http://sports.sina.com.cn/others/synchronise/2019-01-17/doc-ihqhqcis6953124.shtml">国家花游队冬训专攻难点 黄雪辰孙文雁剑指东京</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-17/doc-ihqfskcn7862958.shtml">徐嘉余:亚运五金毕生难忘 世游赛家门口失金遗憾</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-16/doc-ihqfskcn7552068.shtml">徐嘉余当选2018最美浙江人 亚运会掀捞金狂潮</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-16/doc-ihqhqcis6523161.shtml">罗雪娟二胎产女 称生产经历像10个200米超高强度</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqfskcn7258709.shtml">俄乌演员水下憋气3分半 演双人舞刷新吉尼斯纪录</a></li>
+				</ul><ul class="list2"><li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqhqcis6275851.shtml">浙江游泳队昆明海埂冬训 孙杨汪顺徐嘉余开练</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqhqcis6256976.shtml">《我家那闺女》掀闺女热潮 人设定制精准圈粉不难</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqhqcis6067951.shtml">孙杨高原训练雕刻细节：东京奥运是我最后1届奥运</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqfskcn7007470.shtml">莱德基新年首秀轻松摘四金 徐嘉余死敌两冠一亚</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqfskcn6880159.shtml">无缘东京奥运会罗切特人生依旧精彩 转战真人秀</a></li>
+				</ul><ul class="list2 last"><li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-09/doc-ihqfskcn5615370.shtml">春季游泳赛浙江小花亮眼 陈欣怡退出200混竞争</a></li>
+				<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-09/doc-ihqhqcis4614269.shtml">徐嘉余的2018：亚运会是奇妙旅程 短池遭遇挫折</a></li>
+				</ul>
+		</div>
+		<div class="main1R" data-sudaclick="blk_focus_right">
+			<div class="title1 first">
+				<p class="more"><a href="http://match.sports.sina.com.cn/calendar/search.php?date=2013&lm=%D3%CE%D3%BE">更多&gt;&gt;</a></p>
+				<h2>赛程</h2>
+			</div>
+			<div class="m_con">
+				<ul class="list1" style="padding:0 10px; margin:-2px 0">
+					<li><a href="http://match.sports.sina.com.cn/calendar/competition.php?sid=6128&dpc=1">2019年游泳比赛赛程</a></li>
+
+				</ul>
+			</div>
+			<div class="title1" style="border:none; margin-top:-1px">
+				<!-- <p class="more"><a href="http://sports.sina.com.cn/zt/">更多&gt;&gt;</a></p> -->
+				<h2>聚焦</h2>
+			</div>
+			<div class="m_con" style="padding:10px">
+				<div class="misc_inf"> <img src="http://n.sinaimg.cn/sports/55923eb7/20170726/100.jpg" />
+					<div class="txt">
+						<h3><a href="http://sports.sina.com.cn/zt_d/swimbudapest2017" target="_blank">2017年游泳世锦赛</a></h3>
+						<p>孙杨夺取200自金牌...[<a href="http://sports.sina.com.cn/zt_d/swimbudapest2017" target="_blank">详细</a>]</p>
+					</div>
+				</div>
+				 <ul class="list1" style="background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) 0 0 repeat-x; padding:10px 5px; margin:10px 5px -8px">
+					<li><a href="http://sports.sina.com.cn/z/swimkazan2015">2015游泳世锦赛</a> <a href="http://sports.sina.com.cn/z/sunyang/">关注孙杨</a> <a href="http://e.weibo.com/fina1908">泳联微博</a></li>
+
+				</ul> 
+			</div>
+
+<div class="title1">
+				<h2>性感泳坛</h2>
+			</div>
+			<div class="m_con" style="padding:10px 8px">
+<ul class="misc_list" style="margin-bottom:3px">
+
+
+<li style="width:100%; float:none">
+						<a href="http://slide.sports.sina.com.cn/o/slide_2_730_84621.html" target="_blank"><img src="http://www.sinaimg.cn/ty/2015/0717/U5995P6DT20150717180445.jpg" />
+						<span style="padding:10px 0">宁泽涛半裸秀肌肉</span></a>
+					</li>		     
+			      </ul>
+			  </div>
+		</div>
+		<div class="main1BottomBg"></div>
+	</div>
+		<!--首屏横切 end-->
+
+	<div class="main1" style="margin:0">
+		<div class="main1L" data-sudaclick="blk_middle_left">
+			<!-- <div class="title1" style="margin-bottom:-1px; background-position:-1px 0;">
+			<p class="more"><a href="http://sports.sina.com.cn/csl/">更多&gt;&gt;</a></p>
+			<h2 style="border-left: solid 1px #B9D5ED">幻灯</h2></div> -->
+			<!-- 焦点图 begin -->
+<!-- {幻灯图}-->
+<!-- 焦点图 end -->
+			<!--<div class="title1 title2">
+				<p class="more"><a href="http://others.sports.sina.com.cn/rank/swimming.php">完全纪录&gt;&gt;</a></p>
+				<h2>游泳世界纪录查询</h2>
+</div>
+			<table width="314" border="2" cellspacing="1" bordercolor="#66CCFF">
+              <tr>
+                <th width="152" bgcolor="#CFECF8" scope="col">男子项目</th>
+                <th width="154" bgcolor="#CFECF8" scope="col">女子项目</th>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=627">200米自由泳</a> </div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=628">200米自由泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=619">1500米自由泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=620">1500米自由泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=609">100米仰泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=610">100米仰泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=611">100米蛙泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=612">100米蛙泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=625">200米蝶泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=626">200米蝶泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=629">200米混合泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=630">200米混合泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=633">400米混合泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=634">400米混合泳</a></div></td>
+              </tr>
+            </table>
+
+-->
+	<div class="title1">
+<p class="more"><a href="http://sports.sina.com.cn/tblog/plgz_7.html">更多&gt;&gt;</a></p>		
+				<h2>明星微博</h2>
+
+			</div>
+			<div style="padding: 2px;" class="m_con">
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+
+    <td style="padding: 5px;"><div align="center"><img height="65" src="http://www.sinaimg.cn/ty/2012/0917/U1860P6DT20120917095341.jpg"></div></td>
+    <td style="padding: 5px;"><div align="center"><img height="65" src="http://tp4.sinaimg.cn/1878546883/180/40006623625/1"></div></td>
+	<td style="padding: 5px;"><div align="center"><img height="65" src="http://tp3.sinaimg.cn/2258929822/180/5637548262/1"></div></td>
+  </tr>
+  <tr>
+    <td style="color: rgb(3, 53, 174);"><div align="center"><a target="_blank" href="http://weibo.com/yeshiwenwen">叶诗文</a></div></td>
+    <td style="color: rgb(3, 53, 174);"><div align="center"><a target="_blank" href="http://weibo.com/sunyangswim">孙杨</a></div></td>
+	<td style="color: rgb(3, 53, 174);"><div align="center"><a target="_blank" href="http://weibo.com/michaelphelps">菲尔普斯</a></div></td>
+  </tr>
+
+</tbody></table>
+			</div>
+
+<style>
+.ed .misc_inf{ padding-bottom:10px; margin-bottom:10px; background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) bottom repeat-x;}
+.ed .misc_inf .txt h3{ font-size:14px; margin-bottom:8px}
+.ed  .misc_inf .txt p{ line-height:2;}</style>
+
+			<div class="title1">
+				<p class="more"><a target="_blank" href="http://others.sports.sina.com.cn/rank/swimming.php">完全纪录&gt;&gt;</a></p>
+				<h2>游泳世界纪录查询</h2>
+</div>
+<div style="padding:0px;" class="m_con ed">
+			<table width="320" cellspacing="1" bordercolor="#66ccff" border="2">
+              <tbody><tr>
+                <th width="50%" bgcolor="#cfecf8" scope="col">男子项目</th>
+                <th width="50%" bgcolor="#cfecf8" scope="col">女子项目</th>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=627">200米自由泳</a> </div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=628">200米自由泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=619">1500米自由泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=620">1500米自由泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=609">100米仰泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=610">100米仰泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=611">100米蛙泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=612">100米蛙泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=625">200米蝶泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=626">200米蝶泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=629">200米混合泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=630">200米混合泳</a></div></td>
+              </tr>
+              <tr>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=633">400米混合泳</a></div></td>
+                <td> <div align="center"><a href="http://others.sports.sina.com.cn/rank/swimming_info.php?item=634">400米混合泳</a></div></td>
+              </tr>
+            </tbody></table>
+		</div>
+
+	
+<div class="title1">				
+				<h2>历届奥运会中国游泳冠军</h2>
+</div>
+<div style="padding:0px;" class="m_con ed">
+			<table width="320" cellspacing="1" bordercolor="#66ccff" border="2" style="color: rgb(3, 53, 174);">
+              <tbody>
+			  <tr>
+                <th width="35%" bgcolor="#cfecf8" scope="col">奥运会</th>
+                <th width="18%" bgcolor="#cfecf8" scope="col">冠军</th>
+                <th bgcolor="#cfecf8" scope="col">项目</th>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>林莉</td>
+                <td>女子200米混合泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>钱红</td>
+                <td>女子100米蝶泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>庄泳</td>
+                <td>女子100米自由泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>杨文意</td>
+                <td>女子50米自由泳</td>
+              </tr>
+              <tr>
+                <td>1996年亚特兰大</td>
+                <td>乐靖宜</td>
+                <td>女子100米自由泳</td>
+              </tr>
+              <tr>
+                <td>2004年雅典</td>
+                <td>罗雪娟</td>
+                <td>女子100米蛙泳</td>
+              </tr>
+              <tr>
+                <td>2008年北京</td>
+                <td>刘子歌</td>
+                <td>女子200米蝶泳</td>
+              </tr>
+            </tbody></table>
+			</div>
+
+<div class="title1 title2">
+				<p class="more">更多&gt;&gt;</p>
+				<h2>北京奥运会经典</h2>
+			</div>
+			<div class="m_con ed last" style="padding:10px">
+				<div class="misc_inf"> <img src="http://i0.sinaimg.cn/ty/up/2009-06-01/U2716P6T64D62538F1094DT20090601164803.jpg" />
+					<div class="txt">
+						<h3><a href="http://2008.sina.com.cn/z/phelps/" target="_blank">菲尔普斯八金神话</a></h3>
+						<p>菲尔普斯一届奥运获八金史无前例…[<a href="http://2008.sina.com.cn/z/phelps/" target="_blank">详细</a>]</p>
+					</div>
+				</div>
+				<div class="misc_inf"> <img src="http://i2.sinaimg.cn/ty/up/2009-06-01/U2716P6T64D62538F1322DT20090601164803.jpg" />
+					<div class="txt">
+						<h3><a href="http://2008.sina.com.cn/g/liuzige/" target="_blank">刘子歌夺200米蝶泳冠军</a></h3>
+						<p>刘子歌以2分04秒18的成绩获得金牌并打破世界纪录…[<a href="http://2008.sina.com.cn/g/liuzige/" target="_blank">详细</a>]</p>
+					</div>
+				</div>
+				<div class="misc_inf ed last"> <img src="http://i3.sinaimg.cn/ty/up/2009-06-01/U2716P6T64D62538F1323DT20090601164803.jpg" />
+					<div class="txt">
+						<h3><a href="http://2008.sina.com.cn/cn/aq/2008-08-10/1053180233.shtml" target="_blank">张琳摘银实现突破</a></h3>
+						<p>这是中国男选手首次获得奥运会游泳项目的奖牌…[<a href="http://2008.sina.com.cn/cn/aq/2008-08-10/1053180233.shtml" target="_blank">详细</a>]</p>
+					</div>
+				
+				
+				</div>
+
+			</div>
+<!--
+
+<div class="title1 title2">
+				<p class="more">更多&gt;&gt;</p> 
+				<h2>历届奥运会中国游泳冠军</h2>
+</div>
+			<table width="321" border="2" cellspacing="1" bordercolor="#66CCFF">
+              <tr>
+                <th width="105" bgcolor="#CFECF8" scope="col">奥运会</th>
+                <th width="52" bgcolor="#CFECF8" scope="col">冠军</th>
+                <th width="144" bgcolor="#CFECF8" scope="col">项目</th>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>林莉</td>
+                <td>女子200米混合泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>钱红</td>
+                <td>女子100米蝶泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>庄泳</td>
+                <td>女子100米自由泳</td>
+              </tr>
+              <tr>
+                <td>1992年巴塞罗那</td>
+                <td>杨文意</td>
+                <td>女子50米自由泳
+</td>
+              </tr>
+              <tr>
+                <td>1996年亚特兰大</td>
+                <td>乐靖宜</td>
+                <td>女子100米自由泳</td>
+              </tr>
+              <tr>
+                <td>2004年雅典</td>
+                <td>罗雪娟</td>
+                <td>女子100米蛙泳</td>
+              </tr>
+              <tr>
+                <td>2008年北京</td>
+                <td>刘子歌</td>
+                <td>女子200米蝶泳</td>
+              </tr>
+            </table>
+
+<div class="title1">
+				<h2>项目介绍</h2>
+			</div>
+			<div class="m_con last" style="padding:10px 8px">
+<ul class="misc_list" style=" margin-bottom:5px">
+<li style="width:100%; float:none">
+<a href="http://2008.sina.com.cn/events/sw/index.shtml" target="_blank">
+<img src="http://www.sinaimg.cn/ty/up/2009-07-13/U347P6T64D63934F1323DT20090713181814.jpg" />
+<span style="padding:10px 0">游泳</span></a></li>
+				</ul>
+
+<ul class="misc_list" style=" margin-bottom:5px">
+<li style="width:100%; float:none">
+<a href="http://2008.sina.com.cn/events/ss/index.shtml" target="_blank">
+<img src="http://www.sinaimg.cn/ty/up/2009-07-13/U347P6T64D63934F1324DT20090713182035.jpg" />
+<span style="padding:10px 0">花样游泳</span></a></li>
+				</ul>
+
+<ul class="misc_list" style="margin-bottom:5px">
+<li style="width:100%; float:none">
+<a href="http://2008.sina.com.cn/events/wp/index.shtml" target="_blank">
+<img src="http://www.sinaimg.cn/ty/up/2009-07-13/U347P6T64D63934F1325DT20090713182035.jpg" />
+<span style="padding:10px 0">水球</span></a></li>
+				</ul>
+
+			</div>
+-->
+<div class="title1">
+				<h2>官网合作</h2>
+			</div>
+			<div class="m_con" style="padding:10px 8px">
+<ul class="misc_list" style=" margin-bottom:5px">
+<li style="width:100%; float:none">
+<a href="http://zhanglin.sina.com.cn/" target="_blank">
+<img src="http://www.sinaimg.cn/ty/up/2010-08-03/U347P6T64D75364F1091DT20100803111324.jpg" />
+<span style="padding:10px 0">张琳个人官网</span></a></li>
+<li style="width:100%; float:none">
+<a href="http://www.shanghai-fina2011.com/" target="_blank">
+<img src="http://www.sinaimg.cn/ty/up/2010-08-03/U347P6T64D75364F1094DT20100803111324.jpg" />
+<span style="padding:10px 0">游泳世锦赛官网</span></a></li>
+				</ul>
+
+
+
+			</div>
+
+
+<div class="title1">
+			
+				<h2>相关链接</h2>
+			</div>
+			<div class="m_con last" style="padding:10px 8px">
+
+				<ul class="list1" style="padding:10px 5px; margin:-5px 5px 0">
+
+<li><a href="http://www.fina.org/">国际游泳联合会</a></li>
+<li><a href="http://www.swimming.org.cn/">中国游泳协会</a></li>
+				
+				</ul>
+
+		</div>
+
+
+		</div>
+		<div class="main1M" data-sudaclick="blk_middle_middle">
+			
+
+			<div class="title3">
+				<p class="more"><a href="http://sports.sina.com.cn/others/swim/news.shtml">更多&gt;&gt;</a></p>
+				<h2>滚动新闻</h2>
+			</div>
+			<ul class="list2">
+					<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0079983.shtml">张琳感谢祖国培养 庆幸成中国首个男泳世界冠军</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0078150.shtml">张琳获选“中国体育20年影响力人物”</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihqfskcn9344106.shtml">有颜值更有实力丨刘湘获得2018年度女性传媒大奖</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-20/doc-ihqfskcn8782036.shtml">国际泳联新赛事首站落户广州 将向选手支付可观奖金</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9192074.shtml">国际泳联新型游泳赛事来袭 首场位于中国广州！</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9086161.shtml">冠军游泳系列赛首站落户广州 泳联将承担选手食宿</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihqfskcn8469574.shtml">国际泳联创新赛事“冠军游泳系列赛”首站落户广州</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9034419.shtml">池江璃花子出发澳大利亚外训 与世锦赛亚军同游</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/synchronise/2019-01-18/doc-ihrfqziz8919537.shtml">黄雪辰重回国家队 中国花游队已有三位超级辣妈</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/synchronise/2019-01-17/doc-ihqhqcis6953124.shtml">国家花游队冬训专攻难点 黄雪辰孙文雁剑指东京</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-17/doc-ihqfskcn7862958.shtml">徐嘉余:亚运五金毕生难忘 世游赛家门口失金遗憾</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-16/doc-ihqfskcn7552068.shtml">徐嘉余当选2018最美浙江人 亚运会掀捞金狂潮</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-16/doc-ihqhqcis6523161.shtml">罗雪娟二胎产女 称生产经历像10个200米超高强度</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqfskcn7258709.shtml">俄乌演员水下憋气3分半 演双人舞刷新吉尼斯纪录</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqhqcis6275851.shtml">浙江游泳队昆明海埂冬训 孙杨汪顺徐嘉余开练</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-15/doc-ihqhqcis6256976.shtml">《我家那闺女》掀闺女热潮 人设定制精准圈粉不难</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqhqcis6067951.shtml">孙杨高原训练雕刻细节：东京奥运是我最后1届奥运</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqfskcn7007470.shtml">莱德基新年首秀轻松摘四金 徐嘉余死敌两冠一亚</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqhqcis6049066.shtml">专访孙杨：我从不染发 头发是被泳池的消毒水染的</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-14/doc-ihqfskcn6880159.shtml">无缘东京奥运会罗切特人生依旧精彩 转战真人秀</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-13/doc-ihqhqcis5839735.shtml">千里冰封“泳”动兴城--国际冬泳邀请赛落幕</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-13/doc-ihqhqcis5697178.shtml">国际冬泳世界杯晋级赛开赛 多国选手齐聚济南</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-09/doc-ihqfskcn5615370.shtml">春季游泳赛浙江小花亮眼 陈欣怡退出200混竞争</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-09/doc-ihqhqcis4614269.shtml">徐嘉余的2018：亚运会是奇妙旅程 短池遭遇挫折</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-09/doc-ihqhqcis4611277.shtml">中国游泳男子100自要爆发？半年3位小将杀到48秒</a></li>
+			</ul>
+					
+			<div class="title3">
+				<p class="more"><a href="http://sports.sina.com.cn/others/swim/pics.shtml">更多&gt;&gt;</a></p>
+				<h2>图片</h2>
+			</div>
+		<ul class="list2"><li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073216">图文-宁泽涛24岁生日快乐 这样的宁泽涛我们久违了</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073217">图文-宁泽涛24岁生日快乐 正装帅气逼人</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073211">图文-宁泽涛24岁生日快乐 亚运会一炮而红</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073210">图文-宁泽涛24岁生日快乐 亚运会四金王</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073215">图文-宁泽涛24岁生日快乐 与恩师叶瑾</a></li>
+			</ul><ul class="list2 last"><li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073208">图文-宁泽涛24岁生日快乐 我为中国夺冠</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073206">图文-宁泽涛24岁生日快乐 为中国拿到100自冠军</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073213">图文-宁泽涛24岁生日快乐 阳光帅气</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073194">图文-宁泽涛24岁生日快乐 宁泽涛代言</a></li>
+			<li><a target="_blank" href="http://slide.sports.sina.com.cn/o/slide_2_730_122242.html?img=2073204">图文-宁泽涛24岁生日快乐 受伤让人心疼</a></li>
+			</ul>
+			<div class="title3">
+				<p class="more"><a href="http://sports.sina.com.cn/others/swim/video.shtml">更多&gt;&gt;</a></p>
+				<h2>视频</h2>
+			</div>
+		<ul class="list2 last"><li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0079983.shtml">张琳感谢祖国培养 庆幸成中国首个男泳世界冠军</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihrfqzka0078150.shtml">张琳获选“中国体育20年影响力人物”</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-22/doc-ihqfskcn9344106.shtml">有颜值更有实力丨刘湘获得2018年度女性传媒大奖</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-20/doc-ihqfskcn8782036.shtml">国际泳联新赛事首站落户广州 将向选手支付可观奖金</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2019-01-19/doc-ihrfqziz9192074.shtml">国际泳联新型游泳赛事来袭 首场位于中国广州！</a></li>
+			</ul>
+			<div class="title3">
+				<p class="more"><a href="http://sports.sina.com.cn/others/swim/comment.shtml">更多&gt;&gt;</a></p>
+				<h2>评论</h2>
+			</div>
+		<ul class="list2 last"><li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2015-08-11/doc-ifxftkpx3751634.shtml">中国青年报：孙杨因伤退赛为何没有引起舆论苛责</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/others/swim/2015-08-10/doc-ifxftkpe3075337.shtml">中国青年报：中国体育偶像起落的背后</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/r/2015-08-05/04507669972.shtml">郑州日报：宁泽涛瞄准“世界飞鱼”头衔</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/review/paper/2015-07-23/doc-ifxfccux2888652.shtml">北京晨报：游泳世锦赛男女混搭 期待不一样的精彩</a></li>
+			<li><a target="_blank" href="http://sports.sina.com.cn/r/2015-05-08/09577600670.shtml">东方体育日报：花游需要审美再造</a></li>
+			</ul>
+		</div>
+		<div class="main1R" data-sudaclick="blk_middle_right">
+					<div class="title1">
+				<h2>项目介绍</h2>
+		  </div>
+<div class="m_con" style="padding: 30px 8px 6px;">
+<ul class="misc_list">
+					<li>
+						<a href="http://2008.sina.com.cn/events/sw/index.shtml" target="_blank"><img src="http://i2.sinaimg.cn/ty/up/2010-08-02/U1647P6T64D75353F1328DT20100802173406.jpg">
+						<span>游泳</span></a>
+					</li>
+					<li>
+
+						<a href="http://2008.sina.com.cn/events/ss/index.shtml" target="_blank"><img src="http://i3.sinaimg.cn/ty/up/2010-08-02/U1647P6T64D75353F1329DT20100802173406.jpg">
+						<span>花样游泳</span></a>
+					</li>
+					<li>
+						<a href="http://2008.sina.com.cn/events/wp/index.shtml" target="_blank"><img src="http://i1.sinaimg.cn/ty/up/2010-08-02/U1647P6T64D75353F1327DT20100802173406.jpg">
+						<span>水球</span></a>
+					</li>
+				</ul>
+</div>	
+
+<div class="title1">
+				<p class="more"><a href="http://sports.sina.com.cn/star/sports/sw/">更多&gt;&gt;</a></p>
+				<h2>体育之星</h2>
+			</div>
+			<div class="m_con" style="padding:15px 8px 6px">
+				<ul class="misc_list">
+					<li>
+						<a href="http://sports.sina.com.cn/star/liu_zige/" target="_blank"><img src="http://i1.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1091DT20090529160355.jpg" />
+						<span>刘子歌</span></a>
+					</li>
+					<li>
+						<a href="http://sports.sina.com.cn/star/jiao_liuyang/" target="_blank"><img src="http://i0.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1094DT20090529160355.jpg" />
+						<span>焦刘洋</span></a>
+					</li>
+					<li>
+						<a href="http://sports.sina.com.cn/star/zhou_yafei/" target="_blank"><img src="http://i2.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1322DT20090529160355.jpg" />
+						<span>周雅菲</span></a>
+					</li>
+</br>
+<li>
+						<a href="http://sports.sina.com.cn/star/sun_yang_sw/" target="_blank"><img src="http://www.sinaimg.cn/ty/2012/0206/U5995P6DT20120206162038.jpg" />
+						<span>孙杨</span></a>
+					</li>
+<li>
+						<a href="http://sports.sina.com.cn/star/zhang_lins/" target="_blank"><img src="http://i0.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1324DT20090529161138.jpg" />
+						<span>张琳</span></a>
+					</li>
+<li>
+						<a href="http://sports.sina.com.cn/star/wu_peng/" target="_blank"><img src="http://i1.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1325DT20090529161138.jpg" />
+						<span>吴鹏</span></a>
+					</li>
+
+
+
+</br>
+<li>
+						<a href="http://sports.sina.com.cn/star/michael_phelps/" target="_blank"><img src="http://i1.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1326DT20090529164112.jpg" />
+						<span>菲尔普斯</span></a>
+					</li>
+
+<li>
+						<a href="http://sports.sina.com.cn/star/kosuke_kitajima/" target="_blank"><img src="http://i2.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1327DT20090529164112.jpg" />
+						<span>北岛康介</span></a>
+					</li>
+<li>
+						<a href="http://sports.sina.com.cn/star/park_taehwan/" target="_blank"><img src="http://i3.sinaimg.cn/ty/up/2009-05-29/U2716P6T64D62426F1328DT20090529164112.jpg" />
+						<span>朴泰桓</span></a>
+					</li>
+				</ul>
+				<ul class="list1" style="background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) 0 100% repeat-x; padding:10px 5px; margin:-5px 5px 0">
+
+<li><a href="http://sports.sina.com.cn/star/qi_hui/">齐晖</a> <a href="http://sports.sina.com.cn/star/zhao_jing/">赵菁</a> <a href="http://sports.sina.com.cn/star/li_xuanxu/">李玄旭</a> <a href="http://sports.sina.com.cn/star/yang_yu/">杨雨</a> <a href="http://sports.sina.com.cn/star/xu_yanwei/">徐妍玮</a></li>
+
+<li><a href="http://sports.sina.com.cn/star/chen_yin/">陈寅</a> <a href="http://sports.sina.com.cn/star/shi_haoran/">施浩然</a> <a href="http://sports.sina.com.cn/star/yu_chenglong/">于成龙</a> <a href="http://sports.sina.com.cn/star/zhou_jiawei/">周嘉威</a></li>
+
+
+
+
+
+					
+
+				</ul>
+				<ul class="list1" style=" padding:10px 5px; margin:0px 5px -5px">
+
+<li><a href="http://sports.sina.com.cn/star/jiang_wenwen/">蒋文文</a> <a href="http://sports.sina.com.cn/star/jiang_tingting/">蒋婷婷</a> <a href="http://sports.sina.com.cn/star/zhang_xiaohuans/">张晓欢</a> <a href="http://sports.sina.com.cn/star/gu_beibei/">顾贝贝</a> <a href="http://sports.sina.com.cn/star/wang_na_sw/">王娜</a></li>
+
+					
+				</ul>
+<ul class="list1" style=" padding:10px 5px; margin:0px 5px -5px">
+
+<li><a href="http://sports.sina.com.cn/star/eamon_sullivan/">苏利文</a> <a href="http://sports.sina.com.cn/star/alain_bernard/">贝尔纳</a> <a href="http://sports.sina.com.cn/star/ryan_lochte/">罗切特</a> <a href="http://sports.sina.com.cn/star/aaron_peirsol/">佩尔索尔</a></li>
+
+<li><a href="http://sports.sina.com.cn/star/jason_lezak/">雷扎克</a> <a href="http://sports.sina.com.cn/star/oussama_mellouli/">梅洛里</a> <a href="http://sports.sina.com.cn/star/ryosuke_irie/">入江陵介</a>  <a href="http://sports.sina.com.cn/star/stefan_nystrand/">尼斯特兰德</a></li>
+
+<li><a href="http://sports.sina.com.cn/star/jessicah_schipper/">施佩尔</a> <a href="http://sports.sina.com.cn/star/leisel_jones/">雷瑟尔-琼斯</a> <a href="http://sports.sina.com.cn/star/stephanie_rice/">赖斯</a> <a href="http://sports.sina.com.cn/star/rebecca_adlington/">阿德琳顿</a></li>
+
+<li><a href="http://sports.sina.com.cn/star/federica_pellegrini/">佩莱格里尼</a> <a href="http://sports.sina.com.cn/star/kirsty_coventry/">考文垂</a> <a href="http://sports.sina.com.cn/star/natalie_coughlin/">考芙琳</a> <a href="http://sports.sina.com.cn/star/kate_ziegler/">齐格勒</a></li>
+					
+				</ul>
+
+			</div>
+
+
+
+
+
+			<div class="title1">
+			
+				<h2>游泳专题回顾</h2>
+			</div>
+			<div class="m_con last">
+
+				<ul class="list1" style="background:url(http://i0.sinaimg.cn/ty/gn2009/gz_jn_DotBg.gif) 0 100% repeat-x; padding:10px 5px; margin:-5px 5px 0">
+
+<li><a href="http://sports.sina.com.cn/z/swimbarcelona2013/">2013年游泳世锦赛</a></li>
+<li><a href="http://sports.sina.com.cn/z/swimshanghai2011/">2011年游泳世锦赛</a></li>
+<li><a href="http://sports.sina.com.cn/z/swimroma2009/">2009年游泳世锦赛</a> <a href="http://sports.sina.com.cn/z/zhanglin_800fre/">张琳夺中国男泳首金</a></li>
+<li><a href="http://sports.sina.com.cn/z/swimmel2007/">2007年游泳世锦赛</a></li>
+<li><a href="http://sports.sina.com.cn/z/swimmontreal/">2005年游泳世锦赛</a></li>
+					<li><a href="http://sports.sina.com.cn/z/swimbarcelona/">2003年游泳世锦赛</a></li>
+
+<li><a href="http://sports.sina.com.cn/o/fina2001.shtml">2001年游泳世锦赛</a></li>
+					<li><a href="http://sports.sina.com.cn/z/08swimwch25m/">2008年短池游泳世锦赛</a></li>
+					<li><a href="http://sports.sina.com.cn/z/wswim_championships25m/">2004年短池游泳世锦赛</a></li>
+<li><a href="http://sports.sina.com.cn/z/scswim2002/">2002年短池游泳世锦赛</a></li>
+<li><a href="http://sports.sina.com.cn/focus/swimcup.shtml">世界杯短池游泳系列赛</a></li>
+
+
+
+					
+				</ul>
+
+				<ul class="list1" style=" padding:10px 5px; margin:0px 5px -5px">
+
+
+<li><a href="http://sports.sina.com.cn/z/swimol08/">2008全国游泳冠军赛</a></li>
+
+
+										<li><a href="http://sports.sina.com.cn/focus/swimassault.shtml">江门游泳“殴裁”事件</a></li>
+					
+					
+				</ul>  
+
+<ul class="list1" style=" padding:10px 5px; margin:0px 5px -5px">
+
+
+<li><a href="http://sports.sina.com.cn/z/luoty/">蛙后罗雪娟退役</a></li>
+
+<li><a href="http://2004.sina.com.cn/zt/luoxuejuan/">罗雪娟雅典奥运会夺金</a></li>
+					
+				</ul>  
+
+<ul class="list1" style=" padding:10px 5px; margin:0px 5px -5px">
+
+
+<li><a href="http://sports.sina.com.cn/z/zhangjian_qhlake/">张健横渡青海湖</a></li>
+
+<li><a href="http://sports.sina.com.cn/o/zj_ec.shtml">张健横渡英吉利海峡</a></li>
+					<li><a href="http://sports.sina.com.cn/focus/wang_gangyi.shtml">王刚义横渡南极法尔兹海峡</a></li>
+					
+				</ul>  
+
+			</div>
+
+		
+		</div>
+		<div class="main1BottomBg"></div>
+	</div>
+		<!-- 主内容 end -->
+	<!-- 标准尾 begin -->
+	<div id="uni_footer">
+<a href="http://sports.sina.com.cn/guest.html" target="_blank">竞技风暴意见反馈留言板</a>　<a href="mailto:2002wc@vip.sina.com" target="_blank">投稿信箱</a>　客服电话：4006900000　欢迎批评指正<br />
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br />
+Copyright &copy; 1996-2015 SINA Corporation, All Rights Reserved<br />
+新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a><br />
+</div>
+	<!-- 标准尾 end -->
+</div>
+
+
+<!-- body code begin -->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = '//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- start dmp -->
+<script type="text/javascript">
+(function(d, s, id) {
+var n = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+s = d.createElement(s);
+s.id = id;
+s.setAttribute('charset', 'utf-8');
+s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- end dmp -->
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?35ddcac55ce8155015e5c5e313883b68";
+
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- body code end -->
+
+</body>
+</html>
